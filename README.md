@@ -1,9 +1,13 @@
-📊 Blinkit Sales Analysis Dashboard
+📊 Blinkit Sales Analysis 
+
+
 🔍 Overview
 This project delivers a comprehensive analysis of Blinkit's sales data using SQL, Python, and Power BI. The goal is to uncover insights related to sales performance by various product and outlet attributes through a unified analytical process across all tools.
 
+
 🎯 Business Objectives
 The analysis addresses seven key business questions using structured KPIs and appropriate visualizations:
+
 
 #	Requirement	Objective	Chart Type
 1	Total Sales by Fat Content	Analyze impact of fat content on total sales	Donut Chart
@@ -13,6 +17,7 @@ The analysis addresses seven key business questions using structured KPIs and ap
 5	Sales by Outlet Size	Analyze correlation between outlet size and total sales	Donut / Pie Chart
 6	Sales by Outlet Location	Assess geographic sales distribution	Funnel Map
 7	All Metrics by Outlet Type	Provide a complete view of KPIs per outlet type	Matrix Card
+
 
 🛠️ Technologies Used
 Tool	Role
@@ -43,6 +48,7 @@ Visualization & Insights
 Designed dynamic charts to reflect business questions
 
 Used appropriate chart types to match the analytical purpose
+
 
 📈 Key Insights
 High-fat items contribute less to total sales but have better average ratings.
